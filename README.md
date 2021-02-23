@@ -1,6 +1,6 @@
 # WinBaseIt
 
-This Powershell Based GUI provides a simple way to baseline a Windows host
+This Powershell Based GUI provides a simple way to baseline a Windows host, and provides the following information.
 
      1. Applications - Installed, and startup
 
@@ -28,6 +28,8 @@ This Powershell Based GUI provides a simple way to baseline a Windows host
 
      13. Windows Defender CAB files
 
+
+You can either pick individual baseline information, or perform an all in one collection.  
 
 _**Files are saved to C:\Temp in a folder called hostname_date_time**_ 
 
