@@ -2,31 +2,31 @@
 
 This Powershell Based GUI provides a simple way to baseline a Windows host
 
-_1. Applications - Installed, and startup_
+_     1. Applications - Installed, and startup_
 
-_2. Audit Policy_
+_     2. Audit Policy_
 
-_3. Drives - Logical, Network, and Physical_
+_     3. Drives - Logical, Network, and Physical_
 
-_4. Firewall Rules_
+_     4. Firewall Rules_
 
-_5. Networking - Arp, Ipconfig, Netstat, and Routing Table_
+_     5. Networking - Arp, Ipconfig, Netstat, and Routing Table_
 
-_6. Prefetch Listing_
+_     6. Prefetch Listing_
 
-_7. Processes_
+_     7. Processes_
 
-_8. Scheduled Tasks_
+_     8. Scheduled Tasks_
 
-_9. Services_
+_     9. Services_
 
-_10. System32 Dir Walk_
+_     10. System32 Dir Walk_
 
-_11. System Information_
+_     11. System Information_
 
-_12. Users_
+_     12. Users_
 
-_13. Windows Defender CAB files_
+_     13. Windows Defender CAB files_
 
 
 _**Files are saved to C:\Temp in a folder called hostname_date_time**_ 
